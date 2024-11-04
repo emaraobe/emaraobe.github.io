@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emaraobe.github.io/ISW/sitemap_index.txt
+Sitemap: https://emaraobe.github.io/Tmk/sitemap_index.txt
+Sitemap: https://emaraobe.github.io/Yjr/sitemap_index.txt
+Sitemap: https://emaraobe.github.io/yVN/sitemap_index.txt
